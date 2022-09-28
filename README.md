@@ -41,18 +41,13 @@ I'm a passionate learner who's always willing to learn and work across technolog
 -->
 
 ### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnjarTiyo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjarTiyo&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+	
+#### <b>⚡ Github Stats</b></summary>
+<br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnjarTiyo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjarTiyo&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+#### <b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
   <table>
@@ -78,19 +73,16 @@ I'm a passionate learner who's always willing to learn and work across technolog
     </tbody>
   </table>
   <br />
-</details>
+
  
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Kali 2022.3</li>
-	    <li><b>Laptop: </b> Lennovo Thinkpad (i5)</li>
-  	  <li><b>Browser: </b> Chrome Web Browser</li>
-	    <li><b>Code Editor:</b> IntellijIDEA, PyCharm, Jupyter Notebook</li>
-	    <br />
-	</ul>	
-</details>
+	
+#### <b>⚙️ Things I use to get stuff done</b></summary>
+
+<li><b>OS:</b> Kali 2022.3</li>
+<li><b>Laptop: </b> Lennovo Thinkpad (i5)</li>
+<li><b>Browser: </b> Chrome Web Browser</li>
+<li><b>Code Editor:</b> IntellijIDEA, PyCharm, Jupyter Notebook</li>
+
 
 #
 
