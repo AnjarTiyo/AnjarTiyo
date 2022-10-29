@@ -17,7 +17,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/AnjarTiyo/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: African lions catch about 20% of the prey they chase. Dragonflies catch 95%.
 - 📫 &nbsp; How to reach me: anjar.jog@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]().
+- 📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/1v6lZ8vDBrffmiVHyIrSvNkLbkFYzBKKS/view).
 
 
 ### Languages and Tools:
