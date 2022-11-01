@@ -63,11 +63,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/AnjarTiyo/AnjarTiyo"><b>🤓 AnjarTiyo</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AnjarTiyo/AnjarTiyo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AnjarTiyo/AnjarTiyo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AnjarTiyo/AnjarTiyo?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AnjarTiyo/AnjarTiyo?style=flat-square"/></td>
+	      <td><a href="https://github.com/Capstone-Group3-Mentutor"><b>🤓 Mentutor</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Capstone-Group3-Mentutor?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Capstone-Group3-Mentutor?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Capstone-Group3-Mentutor?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Capstone-Group3-Mentutor?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
