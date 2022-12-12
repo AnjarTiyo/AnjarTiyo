@@ -45,37 +45,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 #### <b>⚡ Github Stats</b></summary>
 <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnjarTiyo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjarTiyo&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-
-#### <b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/Capstone-Group3-Mentutor"><b>🤓 Mentutor</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Capstone-Group3-Mentutor?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Capstone-Group3-Mentutor?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Capstone-Group3-Mentutor?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Capstone-Group3-Mentutor?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
   <br />
 
- 
-	
+
 #### <b>⚙️ Things I use to get stuff done</b></summary>
 
 <li><b>OS:</b> Kali 2022.3</li>
